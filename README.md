@@ -12,4 +12,4 @@ A 22-page dynamic website built with React and Firebase.
 - Firebase
 - Email JS
 
-###[Live](http://venovet.com/)
+### [Live](http://venovet.com/)
